@@ -1,0 +1,13 @@
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 250px;
+}
+
+input{
+    border-radius: 2mm;
+    border: none;
+    box-shadow: 2px 2px 5px black;
+    padding: 25px 30px;
+}
